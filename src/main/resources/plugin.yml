@@ -1,0 +1,9 @@
+name: GUIServerSelector
+version: @version@
+main: com.github.highright1234.guiserverselector.GUIServerSelector
+api-version: 1.17
+commands:
+  GuiServerSelector:
+    description: GUIServerSelector Command
+    usage: /GUIServerSelector
+    aliases: gss
